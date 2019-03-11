@@ -1,0 +1,5 @@
+1,Fundaments of programing
+2,Computer systems architecture
+3,Algebra
+4,Mathematical analysis
+5,Computational logic

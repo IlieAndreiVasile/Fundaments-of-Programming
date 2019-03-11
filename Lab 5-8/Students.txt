@@ -1,0 +1,10 @@
+1,Ilie Andrei
+2,Negru Diana
+3,Negru Tudor
+4,Fulea Razvan
+5,Bildea Adrian
+6,Leahu Marius
+7,Risteiu Mircea
+8,Bogdan Darius
+9,Tili Adrian
+10,Metes Razvan
